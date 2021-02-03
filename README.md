@@ -3,7 +3,7 @@
 ### Hello everyone! I'm Benoît Fournier and I'm learning how to become a great web developper and graphist! 
 
 
-**benoitfournier28/benoitfournier28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <!-- **benoitfournier28/benoitfournier28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
